@@ -8,6 +8,11 @@ The model is trained using a **Convolutional Neural Network (CNN)** on a dataset
 ## 🚀 Demo  
 🔗 [Live App on Streamlit](https://rice-disease-prediction-model.streamlit.app/)
 
+
+## 🚀 Video Demo  
+https://github.com/user-attachments/assets/6c7d1d89-f3c1-46aa-b874-daf235cfb9f2
+
+
 ---
 
 ## 📌 Features  
